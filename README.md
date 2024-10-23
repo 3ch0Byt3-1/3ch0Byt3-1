@@ -1,4 +1,5 @@
-# 💫 About Me:
+<div  align="center"><h1> 💫 About Me: </h1></div>
+<div  align="center">
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
@@ -22,3 +23,4 @@
 [![](https://visitcount.itsvg.in/api?id=3ch0Byt3-1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
