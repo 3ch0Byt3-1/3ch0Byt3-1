@@ -4,7 +4,7 @@
 <div  align="center"><h1> 💫 About Me: </h1>
 <div  align="center">
 
-- 🥰WELCOME TO MY PROFILE🥰
+- 🥰WELCOME TO The EchoByte🥰
 
  
 -  🙂 MY Name Is :- Tarun
