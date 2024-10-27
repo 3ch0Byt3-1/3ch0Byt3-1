@@ -1,9 +1,21 @@
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%36a6c2&size=27&lines=H3110;I+Am+Tarun;+You+Know+A+Who+I+Am+??;It's+EchoByte;Thank+You+Everyone+😉;Stay+Safe+Stay+Happy;)
-<div  align="center"><h1> 💫 About Me: </h1></div>
+<div  align="center"><h1> 💫 About Me: </h1>
 <div  align="center">
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+- 🥰WELCOME TO MY PROFILE🥰
+
+ 
+-  🙂 MY Name Is :- Tarun
+ 
+
+- Lives In :- BANGLADESH 🇧🇩
+
+
+-  📕 SCHOOL & Class :- 9😁
+
+</div>
 
 
 ## 🌐 Socials:
