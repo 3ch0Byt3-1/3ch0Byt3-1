@@ -12,7 +12,7 @@
 - Lives In :- BANGLADESH 🇧🇩
 
 
--  📕 SCHOOL & Class : New -- 10😁
+-  📕 SCHOOL & Class : 10😁
 
 </div>
 
